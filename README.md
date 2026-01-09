@@ -10,7 +10,7 @@
 The project transforms unstructured textual feedback into actionable insights, enabling hotel managers to understand what drives positive and negative reviews and improve service quality and brand perception.
 
 ---
-
+ 
 ## Business Problem
 Online reviews strongly influence hotel bookings and brand reputation.  
 However, manually analyzing thousands of reviews is inefficient and subjective.
