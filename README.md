@@ -1,5 +1,4 @@
 # HotelSentinel
-
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 ![NLP](https://img.shields.io/badge/NLP-Sentiment%20Analysis-orange.svg)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Classification-green.svg)
